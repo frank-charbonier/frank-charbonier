@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on analyzing imaging data from collective cell migration experiments
-- 🌱 I’m currently learning how to use GitHub
+- 🌱 I’m currently learning how to use GitHub for research and building a personal website
 
 <!--
 **frank-charbonier/frank-charbonier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
